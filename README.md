@@ -6,7 +6,7 @@
 3. **EcoSort (Sustainability)** – AI system that recognizes materials and helps improve recycling efficiency.
 
 ## Team Members
-- Kristin Griffith (Project Manager)
+- Kristin Griffith 
 - Jeff Weber
 - Layne Carstens
 - Cristian Montes Montecinos
