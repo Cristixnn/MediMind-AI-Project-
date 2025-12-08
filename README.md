@@ -1,27 +1,69 @@
 # MediMind AI Project
 
+
 ## Overview
 Our group is developing **MediMind**, a virtual health assistant that helps users describe symptoms, track medications, and receive personalized wellness suggestions.  
 The project focuses on applying AI in the **Healthcare** sector to make health insights more accessible and user-friendly.
 
-## Brainstormed Project Ideas
-Before deciding on MediMind, we explored a few potential AI applications:
-1. **MediMind (Healthcare)** – AI assistant for symptom tracking and wellness advice.
-2. **SafePayAI (Finance)** – Real-time AI fraud detection system for secure payments.
-3. **EcoSort (Sustainability)** – Image recognition AI that improves recycling accuracy.
+## Motivation & Market fit
+- **Who the product is for**: People wanting to take control of their health, track symptoms, and manage medications more easily.
+- **What needs it meets**: Simplifies preventative care, helps users organize health information, and provides lightweight AI wellness guidance.
+- **Why it’s useful**: Reduces barriers to understanding symptoms, promotes healthier routines, and supports users between doctor visits.
 
-## Project Goals
-- Develop a user-friendly virtual assistant prototype powered by AI.
-- Identify ethical and technical considerations (e.g., privacy, data accuracy).
-- Demonstrate collaboration using GitHub and other professional tools.
+## AI Method & Data Plan 
+- **What Al/NLP methods are used**:
+    - NLP to understand user messages and extract symptoms, medication info, and goals.
+    - Classification models to categorize illness types, health goals, and medication needs.
+
+- **What Data is used**:
+    - Public datasets (CDC, WHO, FDA DailyMed, RXNorm)
+    - Kaggle symptom datasets
+    - Synthetic symptom logs and medication schedules
+ 
+- **High-level AI process**:
+    - User inputs symptoms → NLP extracts key phrases
+    - Classification model predicts possible categories
+    - System generates reminders, suggestions, or follow-up questions
+
+## Ethical Considerations
+- **Privacy & data protection**: Health info must be safeguarded with strict security controls.
+- **Limitations & disclaimers**: MediMind is not a doctor and only provides general guidance.
+- **Data bias risks**: Medical datasets may include demographic bias that affects fairness.
+- **Transparency**: Users must know how AI suggestions are generated and how data is used.
+
+## Features (What MediMind Offers) 
+- Symptom description and tracking
+- Medication reminders and refill guidance
+- Wellness suggestions (exercise, habits, routines)
+- Simple, conversational AI interface
 
 ## Tools and Platforms
 - **GitHub** – project hosting and collaboration  
 - **Google Docs/Slides** – for drafts and presentation slides  
-- **Canvas** – group communication and submissions  
+- **Canvas** – group communication and submissions
 
 ## Team Members
 - Kristin Griffith  
 - Jeff Weber  
 - Layne Carstens  
-- Cristian Montes Montecinos  
+- Cristian Montes Montecinos
+
+## Demon/Prototype/Usage instructions 
+-
+-
+-
+
+## Mockups, Visuals, and Media
+-
+-
+-
+
+
+ 
+
+
+
+
+
+
+
