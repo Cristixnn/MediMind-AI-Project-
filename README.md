@@ -60,7 +60,7 @@ The project focuses on applying AI in the **Healthcare** sector to make health i
 - **Slides** - https://github.com/Cristixnn/MediMind-AI-Project-/blob/main/AI%20Design%20%26%20Strategy%20Medimind%20Slides.pdf
 - **Prototype UI (IOS)** - https://github.com/Cristixnn/MediMind-AI-Project-/blob/main/MediMind%20Prototype%20IOS.png
 - **Prototype Chatbot UI (IOS)** - https://github.com/Cristixnn/MediMind-AI-Project-/blob/main/MediMind%20Chatbot%20UI%20IOS.png
-- **Pitch Video** - 
+- **Pitch Video** - https://github.com/Cristixnn/MediMind-AI-Project-/blob/main/AI%20Design%20%26%20Strategy%20Medimind%20Virtual%20Presentation.mp4
 
 
  
