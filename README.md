@@ -1,5 +1,5 @@
 # MediMind AI Project
-
+**Virtual Health Assistant for Symptom Tracking & Wellness Suggestions**
 
 ## Overview
 Our group is developing **MediMind**, a virtual health assistant that helps users describe symptoms, track medications, and receive personalized wellness suggestions.  
@@ -54,9 +54,9 @@ The project focuses on applying AI in the **Healthcare** sector to make health i
 -
 
 ## Mockups, Visuals, and Media
--
--
--
+-**Logo** - https://github.com/Cristixnn/MediMind-AI-Project-/blob/2522dcc38822186394d26a679d6a61c7e98be8df/medimind%20logo.png
+-**Slides** - https://github.com/Cristixnn/MediMind-AI-Project-/blob/2522dcc38822186394d26a679d6a61c7e98be8df/AI%20Design%20%26%20Strategy%20Medimind.pdf
+-**Pitch Video** - 
 
 
  
