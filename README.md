@@ -49,7 +49,7 @@ The project focuses on applying AI in the **Healthcare** sector to make health i
 - Layne Carstens  
 - Cristian Montes Montecinos
 
-## Demon/Prototype/Usage instructions 
+## Demo / Prototype / Usage instructions 
 -
 -
 -
