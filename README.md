@@ -54,9 +54,10 @@ The project focuses on applying AI in the **Healthcare** sector to make health i
 -
 
 ## Mockups, Visuals, and Media
--**Logo** - https://github.com/Cristixnn/MediMind-AI-Project-/blob/2522dcc38822186394d26a679d6a61c7e98be8df/medimind%20logo.png
--**Slides** - https://github.com/Cristixnn/MediMind-AI-Project-/blob/2522dcc38822186394d26a679d6a61c7e98be8df/AI%20Design%20%26%20Strategy%20Medimind.pdf
--**Pitch Video** - 
+- **Logo** - https://github.com/Cristixnn/MediMind-AI-Project-/blob/2522dcc38822186394d26a679d6a61c7e98be8df/medimind%20logo.png
+- **Slides** - https://github.com/Cristixnn/MediMind-AI-Project-/blob/main/AI%20Design%20%26%20Strategy%20Medimind.pdf
+  
+- **Pitch Video** - 
 
 
  
