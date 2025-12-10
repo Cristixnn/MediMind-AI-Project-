@@ -3,33 +3,54 @@
 ## Cristian Montes – Self Assessment
 
 ## 1. Key Contribution to the Project
+
 The bulk of my contributions came from compiling and finalizing the GitHub repository—resending portions to the correct files, reworking the README, adding omitted sections, and ensuring everything met the English course requirements for the assignment. 
 I contributed the AI method and data plan, redacted portions to clarify the project for assessors, compiled the information, and added links to the necessary files within the slide deck to ensure completeness. I ensured that the project's appeal was uniform and professional.
 Furthermore, I compiled the MediMind UI mockup and chatbot prototype image to illustrate what an end product might look like.
 
 
-
 ## 2. AI Concepts or Skills Learned
-I learned how NLP can be used to extract symptoms and health information from user messages, as well as how classification models categorize illnesses or medication needs. I also learned how to plan a data acquisition strategy and evaluate risks, such as bias and privacy issues. These skills will help me in future AI or machine learning courses.
+
+I learned how NLP separates the relevant and non-relevant parts of user messages, such as symptoms, medications, and other information. 
+I learned how a classification model can classify either the illness at hand or identify the classification.
+Through this experience, I  gained a deeper understanding of data collection, ethical considerations (including biases and privacy), and how to effectively present an AI project to an AI audience, avoiding the limitations of natural language.
+This knowledge will benefit me in future endeavors involving AI, machine learning, and UX.
+
 
 ## 3. Team Collaboration, Decision-making, and Ethics
-Our team collaborated mostly through shared slides and GitHub. We discussed how to fairly represent user needs and avoid harmful AI outputs. We also tried to make decisions based on practicality, especially since some features or prototypes were not possible to complete within the timeframe.
+
+We collaborated across shared documents, GitHub, and messaging. Everyone contributed where they felt comfortable, including conducting extra research, building additional slides, and providing extra writing on the back end. 
+Additionally, we all needed to take the time to discuss our perspectives on AI, including its bias and limitations, and how we'd present MediMind as a tool for seeking information, rather than an advisory tool for medical advice.
+Overall, there was a time pressure, but we all came together to submit our portions.
+
 
 ## 4. What I Would Do Differently
-If I had more time, I would create a working prototype or UI mockup for MediMind so the idea feels more real. I would also meet with my team earlier in the project to divide responsibilities more evenly so the final workload isn’t rushed.
+
+If I had more time, I would have recommended this to my team sooner, allowing us to distribute the work more effectively and avoid the last-minute rush.
+I would have also done more UI mockups or a clickable prototype to emphasize the interactive aspects of the app. 
+Finally, it would have been nice to meet more as an actual team so we wouldn't have had to recap where we all stood every week.
 
 
 
 ## Kristin Griffith – Peer Assessment
-(text)
+
+Kristin was an integral team member who served as a sort of coordinator, keeping everyone on track and involved. 
+For example, she was always in tune with our timelines, she kept asking what needed to be done by when, and she ensured that we were always on track for project deadlines. 
+In addition, she was always in communication with the team, who responded quickly, so we always knew we had a facilitator to keep the team accountable.
+Kristin also designed the MediMind logo, which was incorporated into all project branding, allowing our final presentation to come together more seamlessly and look more professional.
+Overall, Kristin was an observant and supportive team member who contributed to team dynamics with her reliable input and creative pieces, which became integral to the project's quality and implementation.
 
 
 
 ## Layne Carstens – Peer Assessment
-(text)
+INACTIVE 
 
 
 
 ## Jeff Weber – Peer Assessment
-(text)
+Jeff facilitated this project in the making of the slide deck and information to present for the virtual presentation. 
+His slide-making was essentially the foundational skeleton of our final product, formatting some of the crucial visual and organizational aspects. 
+In addition, he also took it upon himself to present during the virtual presentation which added to the consistent nature of what we sought to attain, how we AI'd to get to there and explanation of our project.
+By lending a hand in these areas, everything required for a cohesive and effective final product was already in the works.
+Jeff was an effortless team member to work with, and his contributions consistently supported the presentation of project-related concepts.
 
