@@ -42,7 +42,8 @@ The project focuses on applying AI in the **Healthcare** sector to make health i
 - **Google Docs/Slides** – for drafts and presentation slides  
 - **Canvas** – group communication and submissions
 
-## Team Members
+## Team Members & Self Assessments
+**All assessments are stored in this folder:** https://github.com/Cristixnn/MediMind-AI-Project-/blob/main/Peer%20Assessments
 - Kristin Griffith  
 - Jeff Weber  
 - Layne Carstens  
