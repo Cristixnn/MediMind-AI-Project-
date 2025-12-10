@@ -43,11 +43,13 @@ The project focuses on applying AI in the **Healthcare** sector to make health i
 - **Canvas** – group communication and submissions
 
 ## Team Members & Self Assessments
-**All assessments are stored in this folder:** https://github.com/Cristixnn/MediMind-AI-Project-/blob/main/Peer%20Assessments
-- Kristin Griffith  
-- Jeff Weber  
+- Kristin Griffith
+    - **Kristin's Self & Peer Assessments -** https://github.com/Cristixnn/MediMind-AI-Project-/blob/main/Peer%20%26%20Self%20assessments%20-%20Kristin%20Griffith
+- Jeff Weber
+    - **Jeff's Self & Peer Assessments -** https://github.com/Cristixnn/MediMind-AI-Project-/blob/main/Peer%20%26%20Self%20assessments%20-%20Jeff%20Weber
 - Layne Carstens  
 - Cristian Montes Montecinos
+    - **Cristian's Self & Peer Assessments -** https://github.com/Cristixnn/MediMind-AI-Project-/blob/main/Peer%20%20%26%20Self%20assessments%20-%20Cristian%20Montes
 
 ## Demo / Prototype / Usage instructions 
 - A functional prototype was not completed due to timeline and scope limitations.
