@@ -50,14 +50,14 @@ The project focuses on applying AI in the **Healthcare** sector to make health i
 - Cristian Montes Montecinos
 
 ## Demo / Prototype / Usage instructions 
--
--
--
+- A functional prototype was not completed due to timeline and scope limitations.
+- A visual UI mockup (below) demonstrates the intended design.
 
 ## Mockups, Visuals, and Media
 - **Logo** - https://github.com/Cristixnn/MediMind-AI-Project-/blob/2522dcc38822186394d26a679d6a61c7e98be8df/medimind%20logo.png
 - **Slides** - https://github.com/Cristixnn/MediMind-AI-Project-/blob/main/AI%20Design%20%26%20Strategy%20Medimind%20Slides.pdf
-  
+- **Prototype UI (IOS)** - https://github.com/Cristixnn/MediMind-AI-Project-/blob/main/MediMind%20Prototype%20IOS.png
+- **Prototype Chatbot UI (IOS)** - https://github.com/Cristixnn/MediMind-AI-Project-/blob/main/MediMind%20Chatbot%20UI%20IOS.png
 - **Pitch Video** - 
 
 
